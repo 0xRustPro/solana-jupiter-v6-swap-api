@@ -25,7 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd jupiter-v6-swap-api
+  cd solana-jupiter-v6-swap-api
 ```
 
 Install dependencies
